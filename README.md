@@ -10,5 +10,5 @@ During the project there was a successful implementation of Canvas and displayin
 Difficulties involved problems with collision, and the project was paused indefinitely due to both developers and their other real-life obligations at the time.
 
 ## Credits
-Nicholas Linney (Java Programming, Game Design)
-Jason Patino (Sprites, Animations, Game Play Concepts)
+* Nicholas Linney (Java Programming, Game Design)
+* Jason Patino (Sprites, Animations, Game Play Concepts)
